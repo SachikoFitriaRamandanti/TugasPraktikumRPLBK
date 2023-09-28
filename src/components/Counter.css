@@ -1,0 +1,15 @@
+/* Counter.css */
+.counter-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .counter {
+    font-size: 28px;
+  }
+  
+  .message {
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+  }
+  
